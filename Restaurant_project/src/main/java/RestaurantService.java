@@ -28,4 +28,5 @@ public class RestaurantService {
 
     public List<Restaurant> getRestaurants() {
         return restaurants;
-    
+    }
+}
