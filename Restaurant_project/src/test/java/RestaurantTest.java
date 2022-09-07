@@ -84,4 +84,6 @@ class RestaurantTest {
 
         //Assert
         assertThat(totalOrderValue, equalTo(388));
-    
+    }
+    //<<<<<<<<<<<<<<<<<<<<Get Order Value>>>>>>>>>>>>>>>>>>>>>>>>>>
+}
